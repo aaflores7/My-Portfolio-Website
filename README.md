@@ -1,3 +1,4 @@
+# Portfolio Website
 ## Quickstart Guide
 1. Copy everything from this repository.
 2. Transfer all files and folders to the htdocs directory within XAMPP (e.g., C:\xampp\htdocs\Flores-Portfolio), where "Flores-Portfolio" will hold all the files.
